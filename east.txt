@@ -1,0 +1,45 @@
+1
+BOS
+Boston Celtics
+2
+MIL
+Milwaukee Bucks
+3
+CLE
+Cleveland Cavaliers
+4
+BKN
+Brooklyn Nets
+5
+PHI
+Philadelphia 76ers
+6
+NY
+New York Knicks
+7
+ATL
+Atlanta Hawks
+8
+IND
+Indiana Pacers
+9
+MIA
+Miami Heat
+10
+TOR
+Toronto Raptors
+11
+CHI
+Chicago Bulls
+12
+WSH
+Washington Wizards
+13
+ORL
+Orlando Magic
+14
+CHA
+Charlotte Hornets
+15
+DET
+Detroit Pistons

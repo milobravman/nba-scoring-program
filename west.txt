@@ -1,0 +1,45 @@
+1
+DEN
+Denver Nuggets
+2
+MEM
+Memphis Grizzlies
+3
+NO
+New Orleans Pelicans
+4
+PHX
+Phoenix Suns
+5
+LAC
+LA Clippers
+6
+SAC
+Sacramento Kings
+7
+UTAH
+Utah Jazz
+8
+DAL
+Dallas Mavericks
+9
+POR
+Portland Trail Blazers
+10
+MIN
+Minnesota Timberwolves
+11
+GS
+Golden State Warriors
+12
+OKC
+Oklahoma City Thunder
+13
+LAL
+Los Angeles Lakers
+14
+SA
+San Antonio Spurs
+15
+HOU
+Houston Rockets
