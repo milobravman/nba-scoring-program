@@ -5,32 +5,32 @@ Boston Celtics
 MIL
 Milwaukee Bucks
 3
-CLE
-Cleveland Cavaliers
+PHI
+Philadelphia 76ers
 4
 BKN
 Brooklyn Nets
 5
-PHI
-Philadelphia 76ers
+CLE
+Cleveland Cavaliers
 6
-NY
-New York Knicks
-7
-ATL
-Atlanta Hawks
-8
-IND
-Indiana Pacers
-9
 MIA
 Miami Heat
+7
+NY
+New York Knicks
+8
+ATL
+Atlanta Hawks
+9
+IND
+Indiana Pacers
 10
-TOR
-Toronto Raptors
-11
 CHI
 Chicago Bulls
+11
+TOR
+Toronto Raptors
 12
 WSH
 Washington Wizards

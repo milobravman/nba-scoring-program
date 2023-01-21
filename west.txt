@@ -5,35 +5,35 @@ Denver Nuggets
 MEM
 Memphis Grizzlies
 3
-NO
-New Orleans Pelicans
-4
-PHX
-Phoenix Suns
-5
-LAC
-LA Clippers
-6
 SAC
 Sacramento Kings
-7
-UTAH
-Utah Jazz
-8
+4
+NO
+New Orleans Pelicans
+5
 DAL
 Dallas Mavericks
-9
-POR
-Portland Trail Blazers
-10
+6
+UTAH
+Utah Jazz
+7
 MIN
 Minnesota Timberwolves
-11
+8
+LAC
+LA Clippers
+9
 GS
 Golden State Warriors
-12
+10
 OKC
 Oklahoma City Thunder
+11
+PHX
+Phoenix Suns
+12
+POR
+Portland Trail Blazers
 13
 LAL
 Los Angeles Lakers
